@@ -1,2 +1,2 @@
-# Privacy_Policy
-Privacy_Policy
+# PrivacyPolicy
+privacy policies for mobile apps
